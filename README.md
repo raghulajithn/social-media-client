@@ -31,7 +31,7 @@ git clone https://github.com/raghulajithn/social-media-cleint.git
 ```
 cd social-media-client
 npm install
-
+```
 
 3. Run the react app
 
